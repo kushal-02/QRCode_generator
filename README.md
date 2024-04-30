@@ -12,7 +12,7 @@ This is a simple QR code generator application built using HTML, CSS, and JavaSc
 
 ## Demo
 
-You can try the application live at [Demo Link](https://your-demo-link-here.com).
+You can try the application live at [Demo Link](https://kushal-02.github.io/QRCode_generator/).
 
 ## Screenshots
 
