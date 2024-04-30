@@ -19,9 +19,6 @@ You can try the application live at [Demo Link](https://kushal-02.github.io/QRCo
 ![Screenshot 1](/screenshots/screenshot1.png)
 ![Screenshot 2](/screenshots/screenshot2.png)
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
+
 
